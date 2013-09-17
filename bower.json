@@ -1,0 +1,20 @@
+{
+  "name": "x-tag-iconbutton",
+  "description": "A button with an anchored icon in addition to a label",
+  "version": "0.1.0",
+  "keywords": [
+    "web-components",
+    "button",
+    "icon",
+    "label",
+    "x-tag"
+  ],
+  "main": [
+    "src/iconbutton.js",
+    "src/iconbutton.css"
+  ],
+  "dependencies": {
+    "x-tag-core": "*",
+    "brick-common": "*"
+  }
+}
