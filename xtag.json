@@ -1,7 +1,7 @@
 {
 	"name": "IconButton",
 	"tagName": "x-iconbutton",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": "Leon Zhang",
 	"description": "A button with an anchored icon in addition to a content label",
 	"demo": "demo/testpage.html",
